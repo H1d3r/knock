@@ -1,9 +1,21 @@
 from setuptools import find_packages, setup
 import os
 
-def load_requirements(path):
-    with open(path, "r") as f:
-        return [line.strip() for line in f if line.strip() and not line.startswith("#")]
+HERE = os.path.abspath(os.path.dirname(__file__))
+
+
+def load_requirements(path: str) -> list[str]:
+    """Load requirements from a local file.
+
+    Must work under PEP 517 isolated builds (wheel-from-sdist), so resolve the
+    path relative to this file and fail gracefully if the file isn't present.
+    """
+    req_path = os.path.join(HERE, path)
+    try:
+        with open(req_path, "r", encoding="utf-8") as f:
+            return [line.strip() for line in f if line.strip() and not line.startswith("#")]
+    except FileNotFoundError:
+        return []
 
 wordlist = 'wordlist' + os.sep + 'wordlist.txt'
 
