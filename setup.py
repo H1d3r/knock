@@ -22,7 +22,6 @@ setup(
     entry_points={
         'console_scripts': [
             'knockpy=knockpy.knockpy:main',
-            'knockpy.py=knockpy.knockpy:main',
         ],
     }
 )
