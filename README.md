@@ -30,7 +30,14 @@
 ```bash
 git clone https://github.com/guelfoweb/knockpy.git
 cd knockpy
+# recommended: install in a virtual environment
+python3 -m venv .venv
+. .venv/bin/activate
+python3 -m pip install -U pip
 pip install .
+
+# alternative: install for the current user (no venv)
+# python3 -m pip install --user .
 ```
 
 ⚠️ Recommended Python version: 3.9+
