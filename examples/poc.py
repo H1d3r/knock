@@ -9,9 +9,8 @@ import os
 # Root to sys.path (only for test)
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-from knock import KNOCKPY
+from knockpy import KNOCKPY
 from datetime import datetime
-import json
 
 # ---- Configurable parameters ----
 domain = "github.com"        # target domain
