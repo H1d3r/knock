@@ -1,8 +1,26 @@
-dist/
-venv3/
+# Python cache/artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+venv*/
+.venv/
+
+# Test/cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Packaging/build
 build/
-knockpy.egg-info/
-*.pyc
-knockpy_report/
-knock_subdomains.egg-info/
+dist/
+*.egg-info/
+
+# Local environment/config
 .env
+.Rhistory
+
+# Generated reports
+*_report_*.html

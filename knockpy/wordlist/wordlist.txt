@@ -139,6 +139,8 @@
 98
 99
 a
+a-dtap
+a.auth-ns
 a01
 a02
 a1
@@ -153,7 +155,6 @@ aaa2
 aai
 aap
 aaron
-a.auth-ns
 ab
 aba
 abacus
@@ -185,9 +186,9 @@ acceptatie
 acces
 acceso
 access
-accessibilita
 access1
 access2
+accessibilita
 accessories
 accommodation
 account
@@ -208,6 +209,7 @@ acs
 act
 acta
 action
+actions
 activate
 activation
 active
@@ -270,7 +272,6 @@ adserv
 adserver
 adsl
 adt
-a-dtap
 adtest
 adult
 adv
@@ -299,6 +300,8 @@ africa
 afrodita
 afs
 ag
+ag-hinrichs
+ag-kopf-moertz
 aga
 agate
 age
@@ -308,10 +311,8 @@ agenda
 agent
 agents
 agenzia
-ag-hinrichs
 agile
 agk
-ag-kopf-moertz
 agora
 agri
 agriculture
@@ -342,11 +343,12 @@ aj
 ajax
 ajuda
 ak
+ak-gw
 akademia
 akademik
 akamai
-ak-gw
 akira
+aks
 al
 alabama
 aladdin
@@ -492,13 +494,15 @@ ape
 apex
 aphrodite
 api
+api-dev
+api-gw
+api-test
 api1
 api2
 api3
-api-dev
 apidev
+apigw
 apis
-api-test
 apitest
 apk
 apl
@@ -574,6 +578,7 @@ arena
 ares
 argentina
 argo
+argocd
 argon
 argos
 argus
@@ -711,6 +716,8 @@ australia
 austria
 aut
 auth
+auth-dev
+auth-test
 auth1
 auth2
 author
@@ -765,6 +772,7 @@ azmoon
 azs
 azure
 b
+b.auth-ns
 b01
 b02
 b1
@@ -861,7 +869,6 @@ batch
 batman
 battle
 bau
-b.auth-ns
 bayarea
 baza
 bazaar
@@ -1023,10 +1030,10 @@ blitz
 block
 blocked
 blog
+blog-dev
 blog1
 blog2
 blog3
-blog-dev
 blogdev
 blogg
 blogger
@@ -1175,6 +1182,7 @@ build
 buildbot
 builder
 building
+buildkite
 bulgaria
 bulk
 bulkmail
@@ -1207,6 +1215,7 @@ bydgoszcz
 bz
 c
 c-00
+c.auth-ns
 c1
 c10
 c11
@@ -1348,7 +1357,6 @@ catalyst
 catering
 cats
 cau
-c.auth-ns
 cb
 cbc
 cbf1
@@ -1378,6 +1386,7 @@ ccs
 cct
 cctv
 cd
+cd-dev
 cdb
 cdburner
 cdc
@@ -1468,14 +1477,14 @@ chart
 charts
 chase
 chat
+chat-service
+chat-service2
 chat1
 chat2
 chat3
 chat4
 chats
 chatserver
-chat-service
-chat-service2
 che
 cheboksary
 check
@@ -1521,6 +1530,7 @@ chrysler
 chs
 church
 ci
+ci-dev
 cia
 cib
 cic
@@ -1533,13 +1543,14 @@ cine
 cinema
 cio
 cip
+circleci
 cirrus
 cis
 cisco
-cisco1
-cisco2
 cisco-capwap-controller
 cisco-lwapp-controller
+cisco1
+cisco2
 ciscoworks
 cit
 citi
@@ -1619,12 +1630,12 @@ cmi
 cmp
 cmr
 cms
+cms-test
 cms1
 cms2
 cms3
 cmsadmin
 cmsdev
-cms-test
 cmstest
 cmt
 cn
@@ -1725,8 +1736,8 @@ con
 concentrator
 concord
 concorde
-concorso
 concorsi
+concorso
 concours
 concurso
 concursos
@@ -1749,6 +1760,7 @@ consola
 console
 construction
 construtor
+consul
 consult
 consulta
 consultant
@@ -1798,6 +1810,7 @@ copy
 copyright
 coral
 core
+core-platform
 core0
 core01
 core1
@@ -2114,6 +2127,10 @@ cz
 czat
 czech
 d
+d-app
+d-click
+d-image
+d-view
 d0
 d1
 d10
@@ -2152,7 +2169,6 @@ daniel
 dante
 dap
 daphne
-d-app
 dar
 dark
 darkorbit
@@ -2216,7 +2232,6 @@ dc3
 dcc
 dce
 dchub
-d-click
 dcp
 dcs
 dd
@@ -2241,6 +2256,7 @@ debian
 debug
 dec
 deco
+decommissioned
 dedicated
 deep
 deepolis
@@ -2321,6 +2337,9 @@ deti
 detroit
 deutsch
 dev
+dev-chat
+dev-chat-service
+dev-www
 dev0
 dev01
 dev02
@@ -2350,8 +2369,6 @@ deva
 devadmin
 devapi
 devblog
-dev-chat
-dev-chat-service
 devdb
 devel
 devel2
@@ -2375,7 +2392,6 @@ devtest
 devweb
 devwiki
 devwowza
-dev-www
 devwww
 dewey
 dex
@@ -2416,7 +2432,6 @@ digital
 digitalmedia
 dilbert
 dima
-d-image
 dimdim
 dingo
 dining
@@ -2456,21 +2471,21 @@ distanza
 distanze
 distanziati
 distanziato
-distribuito
 distribuiti
-distributore
-distributori
+distribuito
 distributer
 distributers
 distribution
 distributor
+distributore
+distributori
 distributors
 distribuzione
 distribuzioni
+diversi
 diversita
 diversity
 diverso
-diversi
 diy
 diz
 dj
@@ -2499,6 +2514,7 @@ dna
 dnews
 dnn
 dns
+dns-2
 dns0
 dns01
 dns02
@@ -2510,7 +2526,6 @@ dns11
 dns12
 dns13
 dns14
-dns-2
 dns2
 dns3
 dns4
@@ -2526,6 +2541,7 @@ dnstest
 do
 doc
 docker
+docker-registry
 docs
 doctor
 document
@@ -2546,15 +2562,14 @@ dokuwiki
 dolphin
 dom
 domain
+domain-controller
 domainadmin
 domaincontrol
-domain-controller
 domaincontroller
 domaincontrolpanel
 domaincp
 domaindnszones
 domainmanagement
-domain
 domains
 domen
 domeny
@@ -2652,7 +2667,6 @@ dummy
 dump
 dv
 dvd
-d-view
 dvr
 dw
 dwb
@@ -2668,6 +2682,12 @@ dynip
 dz
 dzb
 e
+e-com
+e-commerce
+e-learning
+e-mail
+e-resultats
+e-shop
 e0
 e1
 e2
@@ -2716,10 +2736,8 @@ ecm
 ecms
 eco
 ecology
-e-com
 ecom
 ecomm
-e-commerce
 ecommerce
 econ
 econom
@@ -2800,6 +2818,7 @@ ekaterinburg
 ekb
 eko
 ekonomi
+eks
 ektron
 el
 elab
@@ -2808,7 +2827,6 @@ elara
 elastix
 elc
 elearn
-e-learning
 elearning
 elearning2
 elec
@@ -2839,7 +2857,6 @@ els
 elsa
 elvis
 em
-e-mail
 email
 email1
 email2
@@ -2957,7 +2974,6 @@ era
 erasmus
 erato
 erc
-e-resultats
 eric
 eris
 ernie
@@ -2980,7 +2996,6 @@ eservice
 eservices
 eset
 esf
-e-shop
 eshop
 eski
 esl
@@ -3152,9 +3167,9 @@ fax
 fax2
 faxserver
 fb
+fb-canvas
 fbapp
 fbapps
-fb-canvas
 fbdev
 fbe
 fbl
@@ -3410,6 +3425,7 @@ fst
 ft
 ftp
 ftp-
+ftp-eu
 ftp0
 ftp01
 ftp02
@@ -3431,7 +3447,6 @@ ftp8
 ftp9
 ftpadmin
 ftpd
-ftp-eu
 ftpmini
 ftps
 ftpsearch
@@ -3452,9 +3467,9 @@ fusion
 futbol
 future
 fw
+fw-1
 fw01
 fw02
-fw-1
 fw1
 fw2
 fw3
@@ -3596,6 +3611,7 @@ girls
 gis
 gis2
 git
+git-runner
 github
 gitlab
 gitweb
@@ -3608,6 +3624,7 @@ gjc
 gjs
 gjxy
 gk
+gke
 gl
 gladiator
 glass
@@ -3659,6 +3676,7 @@ gps
 gpweb
 gq
 gr
+gr-mbpc1
 gra
 graal
 grace
@@ -3674,6 +3692,7 @@ graphic
 graphics
 graphics2
 graphite
+graphql
 graphs
 grc
 great
@@ -3685,7 +3704,6 @@ greenfox
 greetings
 grey
 grid
-gr-mbpc1
 group
 groupon
 groups
@@ -3797,6 +3815,7 @@ hannibal
 hans
 hao
 happy
+harbor
 hardcore
 hardware
 hardy
@@ -3857,6 +3876,7 @@ hg
 hgfgdf
 hh
 hi
+hi-tech
 hidden
 hideip
 hideip-uk
@@ -3874,7 +3894,6 @@ his
 historia
 history
 hit
-hi-tech
 hitech
 hive
 hj
@@ -4183,6 +4202,7 @@ imc
 imchat
 imcservices
 img
+img-m
 img0
 img01
 img02
@@ -4212,7 +4232,6 @@ imga
 imgb
 imgc
 imgf
-img-m
 imgm
 imgn
 imgs
@@ -4319,6 +4338,7 @@ interior
 intern
 internacional
 internal
+internal-api
 international
 internet
 interno
@@ -4357,6 +4377,11 @@ ios
 iota
 iowa
 ip
+ip-ca
+ip-hk
+ip-uk
+ip-us
+ip-usa
 ip1
 ip118
 ip176-194
@@ -4371,14 +4396,12 @@ ipade
 ipam
 ipb
 ipc
-ip-ca
 ipfixe
-ip-hk
 iphone
 ipkvm
 ipl-a
-iplanet
 ipl-m
+iplanet
 ipm
 ipmi
 ipmonitor
@@ -4395,9 +4418,6 @@ ipsec-gw
 ipsi
 ipt
 iptv
-ip-uk
-ip-us
-ip-usa
 ipv
 ipv4
 ipv6
@@ -4497,6 +4517,7 @@ jackson
 jacksonville
 jacob
 jade
+jaeger
 jaguar
 jakarta
 jam
@@ -4619,6 +4640,7 @@ k1
 k2
 k3
 k4
+k8s
 ka
 kabinet
 kairos
@@ -4681,6 +4703,7 @@ kernel
 kevin
 key
 keyan
+keycloak
 keynote
 keys
 keyserver
@@ -4763,6 +4786,11 @@ ksp
 kt
 ku
 ku6
+kube
+kube-api
+kube-dashboard
+kubelet
+kubernetes
 kuku
 kultura
 kunde
@@ -4885,6 +4913,7 @@ lee
 leeds
 leela
 legacy
+legacy-old
 legal
 legend
 legion
@@ -5134,6 +5163,8 @@ lyra
 lyrics
 lyris
 m
+m-dev
+m-test
 m0
 m01
 m1
@@ -5190,6 +5221,13 @@ magnolia
 mahara
 maia
 mail
+mail-1
+mail-2
+mail-backup
+mail-gw
+mail-old
+mail-out
+mail-relay
 mail0
 mail01
 mail02
@@ -5198,7 +5236,6 @@ mail04
 mail05
 mail06
 mail07
-mail-1
 mail1
 mail10
 mail11
@@ -5209,7 +5246,6 @@ mail15
 mail16
 mail17
 mail18
-mail-2
 mail2
 mail20
 mail21
@@ -5236,7 +5272,6 @@ maila
 mailadmin
 mailarchive
 mailb
-mail-backup
 mailbackup
 mailbck
 mailbox
@@ -5254,7 +5289,6 @@ mailgate2
 mailgate3
 mailgateway
 mailguard
-mail-gw
 mailgw
 mailgw1
 mailgw2
@@ -5271,12 +5305,9 @@ maillog
 mailman
 mailmems
 mailmx
-mail-old
 mailold
-mail-out
 mailout
 mailout2
-mail-relay
 mailrelay
 mailroom
 mails
@@ -5419,7 +5450,6 @@ md1
 mdaemon
 mdb
 mdc
-m-dev
 mdev
 mdm
 mds
@@ -5430,8 +5460,8 @@ mech
 mechatronics
 med
 media
-media01
 media-1
+media01
 media1
 media2
 media3
@@ -5640,6 +5670,7 @@ mobi
 mobiel
 mobil
 mobile
+mobile-test
 mobile1
 mobile2
 mobileapp
@@ -5647,7 +5678,6 @@ mobileapps
 mobiledev
 mobileiron
 mobilemail
-mobile-test
 mobiletest
 mobility
 moc
@@ -5692,11 +5722,11 @@ montreal
 moo
 mooc
 moodle
+moodle-dev
+moodle-test
 moodle1
 moodle2
-moodle-dev
 moodledev
-moodle-test
 moodletest
 moon
 moose
@@ -5756,6 +5786,8 @@ mrtg
 mrtg1
 mrtg2
 ms
+ms-exchange
+ms-sql
 ms1
 ms2
 ms3
@@ -5765,7 +5797,6 @@ msc
 msdn
 msdnaa
 mse
-ms-exchange
 msexchange
 msg
 msi
@@ -5775,7 +5806,6 @@ msn
 msoid
 msp
 mss
-ms-sql
 mssql
 mssql0
 mssql01
@@ -5802,7 +5832,6 @@ mta5
 mta6
 mtb
 mtc
-m-test
 mtest
 mti
 mtm
@@ -5827,8 +5856,8 @@ mus
 muse
 museum
 music
-musica
 music-hn
+musica
 musik
 musique
 mustang
@@ -5840,6 +5869,9 @@ mvs
 mw
 mweb
 mx
+mx-1
+mx-a
+mx-b
 mx0
 mx00
 mx01
@@ -5847,7 +5879,6 @@ mx02
 mx03
 mx04
 mx05
-mx-1
 mx1
 mx10
 mx11
@@ -5864,8 +5895,6 @@ mx6
 mx7
 mx8
 mx9
-mx-a
-mx-b
 mxbackup
 mxs
 my
@@ -5948,12 +5977,12 @@ nascosti
 nascosto
 nashville
 nat
+nat-pool
 nat1
 nat2
 nat3
 nat4
 national
-nat-pool
 nats
 nature
 nauka
@@ -5961,8 +5990,8 @@ nautilus
 nav
 navi
 navigator
-nazionali
 nazionale
+nazionali
 nb
 nba
 nc
@@ -6018,6 +6047,7 @@ neuro
 nevada
 nevis
 new
+new-www
 new1
 new2
 new3
@@ -6050,7 +6080,6 @@ newtest
 newton
 newweb
 newwebmail
-new-www
 newwww
 newyear
 newyork
@@ -6171,6 +6200,8 @@ nps
 nr
 ns
 ns-
+ns-1
+ns-2
 ns0
 ns01
 ns02
@@ -6178,7 +6209,6 @@ ns03
 ns04
 ns05
 ns06
-ns-1
 ns1
 ns10
 ns100
@@ -6205,7 +6235,6 @@ ns17
 ns18
 ns19
 ns1a
-ns-2
 ns2
 ns20
 ns201
@@ -6338,6 +6367,7 @@ oas
 oascentral
 oasis
 oauth
+oauth2
 ob
 obchod
 obelix
@@ -6396,6 +6426,7 @@ ohio
 oic
 oid
 oidb
+oidc
 oil
 ois
 oita
@@ -6410,6 +6441,7 @@ ol
 ola
 olap
 old
+old-www
 old1
 old2
 old3
@@ -6423,7 +6455,6 @@ oldman
 oldsite
 oldweb
 oldwebmail
-old-www
 oldwww
 ole
 oleg
@@ -6477,6 +6508,7 @@ openid
 openmeetings
 opennms
 opensource
+opentelemetry
 openview
 openvpn
 openx
@@ -6522,7 +6554,6 @@ orientation
 origen
 origen-www
 origin
-origin2
 origin-cdn
 origin-images
 origin-live
@@ -6530,6 +6561,7 @@ origin-m
 origin-staging
 origin-user
 origin-www
+origin2
 orion
 orion2
 orlando
@@ -6551,6 +6583,7 @@ osx
 ot
 ota
 otc
+otel
 other
 otp
 otrs
@@ -6592,10 +6625,10 @@ owncloud
 ows
 ox
 ox-d
-oxford
 ox-i
-oxnard
 ox-ui
+oxford
+oxnard
 oxygen
 oyp
 oyun
@@ -7164,6 +7197,9 @@ praxis
 prc
 prd
 pre
+pre-prod
+pre-production
+pre-www
 pregnant
 prelive
 prelive-admin
@@ -7177,9 +7213,7 @@ prenotazioni
 prensa
 prep
 prepaid
-pre-prod
 preprod
-pre-production
 pres
 presence
 present
@@ -7195,7 +7229,6 @@ prev
 preview
 preview1
 preview2
-pre-www
 prewww
 pri
 price
@@ -7220,6 +7253,7 @@ prisma
 priv
 privacy
 private
+private-api
 prm
 pro
 proba
@@ -7333,6 +7367,7 @@ pts
 pub
 pub2
 public
+public-api
 public1
 public2
 publica
@@ -7591,10 +7626,10 @@ relay3
 relay4
 relay5
 release
-release0000
 release-chat
 release-chat-service
 release-commondata
+release0000
 releasephp
 relief
 religion
@@ -7756,11 +7791,11 @@ rostov
 roundcube
 route
 router
-router1
-router2
 router-b
 router-uk
 router-us
+router1
+router2
 routing
 roy
 royal
@@ -7810,6 +7845,7 @@ rubin
 ruby
 rugby
 rune
+runner
 rural
 rus
 russia
@@ -7823,6 +7859,8 @@ ryan
 ryazan
 rz
 s
+s-dtap
+s-dtap2
 s0
 s01
 s02
@@ -8133,8 +8171,6 @@ sdm
 sdo
 sdp
 sds
-s-dtap
-s-dtap2
 se
 sea
 seafight
@@ -8210,6 +8246,7 @@ sergio
 seri
 serial
 serv
+serv-refi
 serv1
 serv2
 server
@@ -8291,7 +8328,6 @@ serviziweb
 serviziweb1
 serviziweb2
 serviziweb3
-serv-refi
 serwer
 serwis
 ses
@@ -8502,6 +8538,11 @@ smsgateway
 smsgw
 smt
 smtp
+smtp-gw
+smtp-in
+smtp-out
+smtp-out-01
+smtp-relay
 smtp0
 smtp01
 smtp02
@@ -8527,18 +8568,13 @@ smtp8
 smtp9
 smtpa
 smtpauth
-smtp-gw
 smtpgw
 smtphost
-smtp-in
 smtpin
 smtpmail
 smtpmax
-smtp-out
 smtpout
-smtp-out-01
 smtpout2
-smtp-relay
 smtprelay
 smtps
 smtptest
@@ -8623,6 +8659,7 @@ southeast
 southwest
 sovet
 sp
+sp-test
 sp1
 sp2
 spa
@@ -8696,7 +8733,6 @@ sprint
 sps
 spss
 spt
-sp-test
 sptest
 sputnik
 spy
@@ -8805,6 +8841,7 @@ ssh1
 ssh2
 ssi
 ssl
+ssl-vpn
 ssl0
 ssl01
 ssl1
@@ -8812,11 +8849,12 @@ ssl2
 ssl3
 ssl4
 ssltest
-ssl-vpn
 sslvpn
 ssm
 ssmtp
 sso
+sso-dev
+sso-test
 sso2
 ssotest
 ssp
@@ -8839,12 +8877,12 @@ stage1
 stage2
 stages
 staging
-staging1
-staging2
-staging40
 staging-chat
 staging-chat-service
 staging-commondata
+staging1
+staging2
+staging40
 stagingphp
 stalker
 stamp
@@ -8866,6 +8904,7 @@ stat
 stat1
 stat2
 static
+static-m
 static0
 static01
 static1
@@ -8876,7 +8915,6 @@ static5
 static6
 static7
 static8
-static-m
 statics
 station
 statistica
@@ -9124,6 +9162,7 @@ szkolenia
 sztz
 szukaj
 t
+t-dtap
 t1
 t2
 t3
@@ -9187,7 +9226,6 @@ tdc
 tde
 tdm
 tds
-t-dtap
 te
 tea
 teach
@@ -9214,6 +9252,7 @@ teens
 tehran
 teknik
 teknobyen-gw2
+tekton
 tel
 tele
 tele2
@@ -9257,6 +9296,8 @@ terry
 tes
 tesla
 test
+test-admin
+test-www
 test01
 test02
 test03
@@ -9285,7 +9326,6 @@ test7
 test8
 test9
 test99
-test-admin
 testadmin
 testapi
 testapp
@@ -9323,7 +9363,6 @@ testvb
 testweb
 testwiki
 testwp
-test-www
 testwww
 testxp
 testy
@@ -9341,12 +9380,12 @@ tftp
 tg
 tgp
 th
+th-core
 thai
 thailand
 thanhtra
 thankyou
 thc
-th-core
 the
 theater
 theatre
@@ -9847,6 +9886,7 @@ vid1
 vid2
 vid3
 video
+video-m
 video1
 video2
 video3
@@ -9854,7 +9894,6 @@ video4
 videochat
 videoconf
 videoconferencia
-video-m
 videos
 videos2
 videoteca
@@ -9881,9 +9920,9 @@ virgin
 virginia
 virgo
 virt
+virt-gw
 virt1
 virt2
-virt-gw
 virtual
 virtual1
 virtual2
@@ -10095,6 +10134,7 @@ wds
 we
 weather
 web
+web-dev
 web0
 web01
 web02
@@ -10164,7 +10204,6 @@ webdav
 webdb
 webdemo
 webdesign
-web-dev
 webdev
 webdev2
 webdisk
@@ -10193,6 +10232,7 @@ weblogic
 weblogs
 webm
 webmail
+webmail-old
 webmail01
 webmail02
 webmail1
@@ -10200,7 +10240,6 @@ webmail2
 webmail3
 webmail4
 webmail5
-webmail-old
 webmailtest
 webmaker
 webmakerl
@@ -10458,17 +10497,37 @@ wws
 wwu
 www
 www-
-www0
 www-01
-www01
 www-02
+www-1
+www-2
+www-3
+www-4
+www-5
+www-a
+www-admin
+www-b
+www-c
+www-cache
+www-dev
+www-devel
+www-int
+www-new
+www-old
+www-org
+www-origin
+www-prod
+www-staging
+www-test
+www-uat
+www0
+www01
 www02
 www03
 www04
 www05
 www06
 www07
-www-1
 www1
 www10
 www11
@@ -10480,7 +10539,6 @@ www16
 www17
 www18
 www19
-www-2
 www2
 www20
 www21
@@ -10492,15 +10550,12 @@ www26
 www27
 www28
 www29
-www-3
 www3
 www30
 www31
-www-4
 www4
 www40
 www42
-www-5
 www5
 www6
 www66
@@ -10508,37 +10563,21 @@ www7
 www8
 www9
 www99
-www-a
 wwwa
-www-admin
 wwwalt
-www-b
 wwwb
-www-c
-www-cache
 wwwcache
 wwwchat
-www-dev
 wwwdev
-www-devel
 wwwftp
-www-int
 wwwm
 wwwmail
-www-new
 wwwnew
-www-old
 wwwold
-www-org
-www-origin
-www-prod
 wwws
-www-staging
 wwwstg
 wwwt
-www-test
 wwwtest
-www-uat
 wwww
 wwwww
 wwwx
@@ -10551,6 +10590,7 @@ wyoming
 wyx
 wz
 x
+x-ray
 x1
 x2
 x3
@@ -10604,7 +10644,6 @@ xms
 xp
 xpam
 xq
-x-ray
 xray
 xs
 xsc
@@ -10678,6 +10717,7 @@ yxy
 yy
 yz
 z
+z-log
 z1
 z2
 z3
@@ -10717,9 +10757,9 @@ zeta
 zeus
 zf
 zh
+zh-cn
 zhaopin
 zhaosheng
-zh-cn
 zhidao
 zhuanti
 zim
@@ -10729,7 +10769,6 @@ zion
 zip
 zj
 zk
-z-log
 zlog
 zm
 zmail
