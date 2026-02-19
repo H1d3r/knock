@@ -100,7 +100,7 @@ knockpy -d domain.com [options]
 | `--test`          | With `--recon`, test each recon source (failed/empty/data) |
 | `--setup`         | Interactive setup (runtime defaults + API keys in DB) |
 | `--update-versions` | Update local latest web-server versions catalog |
-| `--report [ID|latest|list]` | Report mode (interactive show/delete/export/search/reset db, export HTML) |
+| `--report [ID\|latest\|list]` | Report mode (interactive show/delete/export/search/reset db, export HTML) |
 | `--check-update` | Check online if a newer Knockpy release is available on PyPI |
 | `--wordlist`      | Runtime override for wordlist      |
 | `--dns`           | Runtime override for DNS resolver  |
